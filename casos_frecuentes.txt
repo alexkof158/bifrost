@@ -1,0 +1,566 @@
+﻿
+___________________________________________________________________FORMATO SOLICITUD DE DATOS _____________________________________________________________________________
+
+CORREO DE PROTOCOLO
+
+Estimado(a) usuario,
+
+MIS le informa que con el propósito de brindar una atención oportuna a su solicitud recibida por correo electrónico y durante el tiempo de la contingencia por el COVID-19, es necesario que envíe al correo  los siguientes datos para poder contactarlo(a), y así poder realizar un diagnóstico y/o solución en línea:
+ 
+1.    Nombre del usuario
+2.    Cargo
+3.    Sede - Regional y/ centro zonal
+4.    Dependencia o Área 
+5.    Número de contacto (Celular, Fijo)
+6.    Número de extensión en caso de encontrarse en las instalaciones de ICBF
+ 
+En caso de que no desee suministrar sus datos de contacto telefónico, lo invitamos a utilizar nuestras líneas de atención.
+ 
+
+Apreciado/a funcionario/a.
+
+MIS estuvo tratando de contactarlo/a, y se envió correo de solicitud de datos desde el día XXXXXXX y hasta el momento no se ha enviado respuesta y no fue posible ubicarlo/a se procederá con el cierre del servicio.
+Le solicitamos por favor contactar a la mesa informática de soluciones ext. 8080 - Línea directa Bogotá: 770 3140 - Línea gratuita Nacional 018000115210 ó mail mis@icbf.gov.co para programar una nueva visita.  (Notificación enviada al funcionario cuando se realice cambio de estado ha cerrado.)
+Después de la segunda visita el servicio se deberá concluir y esperar que el usuario vuelva a llamar a la Mesa informática de soluciones MIS, para abrir un nuevo caso.
+Agradezco su atención, compresión y estamos atentos a dudas y solicitudes adicionales.
+La Mesa Informática de Soluciones (MIS)
+Le agradece por utilizar los canales de solicitudes de atención de servicios.
+Email: mis@icbf.gov.co
+
+
+
+
+_____________________________________________________________________________________FUNCIONARIO NO DISPONIBLE____________________________________________________________________________________________________________ 
+
+FUNCIONARIO NO DISPONIBLE  
+
+
+  
+PRIMERA VISITA: (Colocar en NOTA) 
+  
+Estimado(a) Colaborador(a) 
+ 
+El día DDD del MMMM a las HHHH nos dirigimos a su puesto de trabajo para atender su solicitud, pero no fue posible ubicarlo(a), por esta razón estaremos realizando una nueva visita el DDD de MMMM a las HHHH. 
+ 
+En caso de no poder estar presente agradecemos informar a la Mesa Informática de Soluciones el día en que podrá atendernos. 
+
+
+ 
+SEGUNDA VISITA: (Colocar en NOTA) 
+  
+Estimado(a) Colaborador(a) 
+ 
+Se realizó segunda visita para atender su solicitud el día XXX de MMMM a las HHHH, y no fue posible ubicarlo(a), por esta razón estaremos realizando una última visita el DDD de MMMM a las HHHH, para atender su solicitud.  
+ 
+En caso de no poder estar presente agradecemos informar a la Mesa Informática de Soluciones el día en que podrá atendernos. 
+
+
+
+ 
+TERCERA VISITA: (Colocar como SOLUCIÓN) 
+  
+Estimado(a) Colaborador(a) 
+ 
+Se realizó las siguientes visitas para atender la solicitud (fecha visita 1, fecha visita 2) y el día XXX de MMMM a las HHHH, y no fue posible ubicarlo(a), por esta razón se procedió con el cierre del ticket. 
+ 
+Le solicitamos por favor contactar a la Mesa Informática de Soluciones para crear un nuevo caso indicando la fecha en que podemos ubicarlo(a). 
+ 
+
+Cordialmente,  
+ 
+MIS, Mesa informática de Soluciones 
+MISWEB: htttps://mis.icbf.gov.co/login 
+MISI – Chatbot Teams 
+Correo: mis@icbf.gov.co 
+Línea directa Bogotá: 601-766 6755 
+Línea gratuita Nacional 018000112880 - 018000120200 
+
+
+
+____________________________________________SOLUCIÓN CASOS SALUD INFORMATICA ICBF _________________________________________________________________________________________________ 
+
+
+
+1. Se realiza las siguientes validaciones y correcciones en los casos necesarios para dar cumplimiento a la brigada de salud informática.
+2. Se verificas el nombre de equipo.  
+3. se verifica la versión del antivirus. 
+4. Se verifica agente. 
+5. se verifica software de línea base. 
+6. se validan agentes administradores y usuarios locales. 
+7. se crea agente Reg-Sop-Tolima.
+8. se actualizan políticas y se reinicia el equipo. 
+9. se llena planilla de Excel. 
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+
+________________________________________________________________________SOLICITUD DE EQUIPO_______________________________________________________________________________________
+
+El equipo se encuentra funcional, pero se identifica que la falla de bloqueo y lentitud del sistema es causada por limitación de hardware,
+a pesar que se realizó un mantenimiento preventivo y correctivo. 
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+__________________________________________________________________INSTALACIÓN DE EQUIPOS AUDIOVISUALES______________________________________________________________
+
+
+Se ha validado su  solicitud para INSTALACIÓN DE EQUIPOS AUDIOVISUALES se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se realizó la instalación del equipo portátil y del videobeam en el lugar indicado.
+
+2. Se realizó pruebas de audio y video sin ningún tipo de problema. 
+
+Agrademos validar la efectividad de la solución y dar respuesta a la encuesta de satisfacción que será enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el sistema dará como gestionada a satisfacción y cerrará el caso. 
+
+
+
+
+__________________________________________________________________AGENDAMIENTO EQUIPOS AUDIO VISUALES________________________________________________
+
+
+
+1. Se agenda instalación de los equipos audio visuales para el día y lugar indicado por el colaborador. 
+
+
+
+________________________________________________________________________CONFIGURACION SIM_____________________________________________________________________ 
+
+
+Se ha validado su  solicitud para CONFIGURACION SIM se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se configura la extensión IE Tab en el navegador Edge. 
+2. Se guarda acceso en barra de favoritos para mayor facilidad al usuario.  
+3. Se realiza Pruebas de ingreso del SIM de manera correcta.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+
+___________________________________________________________________________CONFIGURACION ORFEO____________________________________________________________________________
+
+Se ha validado su  solicitud para CONFIGURACION ORFEO se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se ingresa ORFEO de forma correcta en el navegador solicitado y se guarda la página en la opción de favoritos. 
+2. se configura la barra de favoritos para que sea visible los marcadores anclados. 
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+___________________________________________________________________________EQUIPO LENTO___________________________________________________________________________
+
+
+Se ha validado su  solicitud para EQUIPO LENTO  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+
+1. Se realiza un mantenimiento del sistema operativo, se elimina archivos temporales, se desfragmenta el disco, se actualiza políticas y se libera espacio de disco duro.
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+
+
+____________________________________________________________________CONFIGURACION PERFIL DE USUARIO_________________________________________________________________  
+
+Se ha validado su  solicitud para CONFIGURACION PERFIL DE USUARIO se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se configura perfil de usuario en el equipo institucional. 
+2. Se configura correo, Teams,SIM y navegadores.
+3. Se traslada copia de la información en el equipo institucional. 
+4. Se configura impresora.
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+___________________________________________________________________REUBICACION PUESTO DE TRABAJO___________________________________________________________________ 
+
+Se ha validado su  solicitud para REUBICACION PUESTO DE TRABAJO se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se realiza el traslado de los equipos de cómputo en la misma área de trabajo.
+2. Se instala y se realiza pruebas de funcionamiento de forma correcta. 
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+______________________________________________________________________INSTALACION SCANNER_________________________________________________________________________________
+
+Se ha validado su  solicitud para INSTALACION SCANNER se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se descargó y se instalado la última versión del controlador del scanner.
+2. Se realizó configuración con los parámetros requeridos. 
+3. Se realizó pruebas con el scanner de manera correcta. 
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+_________________________________________________________________FALLA DE SCANNER IMPRESORA ____________________________________________________________________________
+
+Se ha validado su  solicitud para FALLA DE SCANNER IMPRESORA se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se identificó un atasco en el alimentador automático del ADF. 
+2. Se retiró el cuerpo extraño en el alimentador. 
+3. Se realizó pruebas en el escáner de manera correcta.
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+__________________________________________________________________CONFIGURACION DE IMPRESORA____________________________________________________________________________
+
+Se ha validado su  solicitud para CONFIGURACION DE IMPRESORA se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se descarga la última versión del controlador de la impresora.
+2. Se instala y se configura la impresora en el equipo. 
+3. Se realizó pruebas de impresión de manera correcta.
+4. Se procede a cierre de la solicitud.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+_____________________________________________________________________FALLA IMPRESORA____________________________________________________________________________________
+
+
+Se ha validado su  solicitud para FALLA IMPRESORA se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se identifica que la impresora presenta fallas en el controlador instalado en el equipo. 
+2. Se procede a desinstalar el controlador de la impresora.
+3. Se instala y se configura de forma correcta la última versión del controlador.
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+
+_____________________________________________________________________ATASCO IMPRESORA__________________________________________________________________________________
+
+
+Se ha validado su  solicitud para ATASCO IMPRESORA  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se identifica un atasco de papel en la bandeja número 2.
+2. Se retira el papel y se realiza las pruebas de impresión de forma correcta. 
+
+ 
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+____________________________________________________________________INSTALACION TONER_________________________________________________________________________________
+
+
+
+Se ha validado su  solicitud para INSTALACION TONER se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se  retira el Tóner vacío de la impresora y se instala de forma correcta el nuevo Tóner. 
+2. Se realiza pruebas de impresión de forma correcta. 
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+_________________________________________________________________________FALLA VPN_________________________________________________________________________________________
+
+Se ha validado su  solicitud para FALLA VPN  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se identifica problemas de conexión a la configuración del ICBF. 
+2. Se procede a desinstalar el programa FortiClient VPN.
+3. Se instala y se configura de forma correcta la última versión de FortiClient VPN solucionado el problema. 
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+______________________________________________________________________FORMATEAR EQUIPO_____________________________________________________________________________________
+
+
+Se ha validado su  solicitud para FORMATEAR EQUIPO  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se identifica fallas de sistema operativo provocando que se congele de forma constante. 
+2. Se realiza una copia de la información en el equipo. 
+3. Se reinstala de nuevo el sistema operativo con la última versión de Windows 10. 
+4. Se configura el equipo con la configuración establecidas por el ICBF. 
+5.  Se configura perfil de usuario y aplicativos correspondientes. 
+6. Se instala y se configura la impresora.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+  
+
+
+______________________________________________________________________CONCEPTO TECNICO___________________________________________________________________________________
+
+Atendiendo su solicitud para realizar concepto técnico a ___ Monitor y CPU____ se informa  que se ha generado  con los siguientes resultados:  
+
+1. Se realizó el diagnóstico del elemento solicitado____ cpu y monitor____ el cual se encuentra Funcional sin afectaciones de hardware y software
+2. Se diligencia el formato de diagnóstico de hardware con los datos del equipo.  
+3. Se adjunta el formato en la solicitud con sus respectivas firmas.
+4 se ha adjuntado formato de concepto técnico al ticket.___ 690481
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+______________________________________________________________________ACTUALIZACIO FIRMA_____________________________________________________________________ 
+
+Acorde  a si solicitud  se procedio a realizar el acompañamiento para _______ Dentro de la atencion se realizaron las siguientes  actividades 
+
+
+1. Se configura y se actualiza el último modelo de la firma de correo  desde las opciones de Outlook 365 de manera correcta. 
+2. Se comprueba con el/la colaborador/a él buen funcionamiento de la solución dada.   
+
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+
+________________________________________________________________________FALLA OUTLOOK________________________________________________________________________  
+
+Se ha validado su  solicitud para FALLA OUTLOOK  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se identificó que el cliente de correo Outlook no se estaba ejecutando y se bloqueaba al cargar el perfil. 
+
+2. Se procedió en la desinstalación del paquete Office 365 en el equipo.
+
+3. Se instaló la última versión del paquete Office. 
+
+4. Se configuro el cliente del correo con las credenciales correspondientes. 
+
+5. Se realizó pruebas de envío y recepción sin problemas.
+
+Agrademos validar la efectividad de la solución y dar respuesta a la encuesta de satisfacción que será enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el sistema dará como gestionada a satisfacción y cerrará el caso.
+
+
+_______________________________________________________________________CONFIGURACION CORREO_________________________________________________________________________________
+
+Se ha validado su  solicitud para CONFIGURACION CORREO  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se descarga y se instala la última versión del paquete Office 365.
+2. Se sincroniza el cliente Outlook con las credenciales de usuario y se configura de manera correcta. 
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+
+
+_____________________________________________________________________ Sincronizacion de  onedrive ___________________________________________________________________________ 
+
+
+Acorde  a si solicitud  se procedio a realizar el acompañamiento para Sincronizacion de  onedrive  Dentro de la atencion se realizaron las siguientes  actividades 
+
+
+1. Se eliminan temporales he historiales del equipo  del usuario, se reinicia y se realiza acompamamiento en el proceso de autenticacion del  correo se deja sincronizando  de  forma correcta   
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+
+_____________________________________________________________________RESPUESTA AUTOMÁTICAS CORREO___________________________________________________________________________ 
+
+Acorde  a si solicitud  se procedio a realizar el acompañamiento para RESPUESTA AUTOMÁTICAS CORREO  Dentro de la atencion se realizaron las siguientes  actividades 
+
+
+1. Se configura de forma correcta con las fechas solicitadas la opción de respuesta automáticas desde el cliente del correo por motivos de vacaciones.
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+
+____________________________________________________________________________BUZON COMPARTIDO________________________________________________________________________________
+
+
+Acorde  a si solicitud  se procedio a realizar el acompañamiento para BUZON COMPARTIDO  Dentro de la atencion se realizaron las siguientes  actividades 
+
+1.Se verifica que el buzón compartido se creó de manera correcta en el cliente Outlook. 
+2.Se realizó pruebas de envío y recepción sin problemas.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+
+________________________________________________________________________CONFIGURACION ADOBE PDF____________________________________________________________________________
+
+
+Se ha validado su  solicitud para CONFIGURACION ADOBE PDF  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se descarga y se instala la última versión del Adobe Reader PDF. 
+2. Se configura como visor de PDF predeterminado. 
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+  
+  
+
+________________________________________________________________________SICRONIZACION ONEDRIVE_______________________________________________________________________
+
+Se ha validado su  solicitud para SICRONIZACION ONEDRIVE  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+
+1. Se configura el aplicativo OneDrive en el equipo y se sincroniza las carpetas de forma correcta.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+_________________________________________________________________________CONFIGURACION TEAMS______________________________________________________________________________
+
+
+Se ha validado su  solicitud para CONFIGURACION TEAMS  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se descarga y se instala la última versión del aplicativo Teams.
+2. Se configura el usuario en el aplicativo.
+3. Se realiza pruebas de video llamadas de forma exitosa.
+4. Se comprueba con el (la) colaborador(a) él buen funcionamiento de la solución dada.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.   
+
+__________________________________________________________________________INSTALACION IZARC______________________________________________________________________________
+
+Se ha validado su  solicitud para INSTALACION IZARC  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+
+1.  Se descarga la última versión del programa IZARC.
+3.  Se instala y se configura de forma correcta como el compresor de archivos comprimidos predeterminado. 
+
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+___________________________________________________________________________INSTALACIÓN TOKEN __________________________________________________________________________
+
+Se ha validado su  solicitud para INSTALACIÓN TOKEN   se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se descargó y se instaló la última versión del Elogic Monitor. 
+2. Se instaló y se configuro el controlador del Token.  
+3. Se configuro el SIIF en el navegador.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+_________________________________________________________________________ACTUALIZACION ELOGIC MONITOR_____________________________________________________________________
+
+Se ha validado su  solicitud para ACTUALIZACION ELOGIC MONITOR  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+
+1.  Se solicitad actualización del complemento Elogic Monitor.
+2.  Se instala y se configura de forma correcta la última versión del complemento solicitado. 
+
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+  
+_____________________________________________________________________________FALLA ELOGIC MONITOR___________________________________________________________________________________ 
+
+Se ha validado su  solicitud para FALLA ELOGIC MONITOR se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se identifica que el componente Elogic Monitor no se está ejecutado de forma correcta en la plataforma SIIF Nación.
+2.  Se realiza la desinstalación del complemento por completo en el equipo. 
+3.  Se descargar la última versión del Elogic Monitor, se instala y se configura de forma correcta solucionado el problema. 
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.   
+
+
+______________________________________________________________________________VENTANAS EMERGENTES_________________________________________________________________________
+
+Se ha validado su  solicitud para VENTANAS EMERGENTES se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se identifica que las ventanas emergentes están deshabilitadas y no se puede acceder en algunas opciones de la página web reportada. 
+2. Se habilita de forma correcta las ventanas emergentes desde las opciones del navegador.
+3. Se realiza pruebas de navegación de forma correcta. 
+
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.   
+
+
+______________________________________________________________________________EQUIPO FUERA DEL DOMINIO ______________________________________________________________________
+
+
+Se ha validado su  solicitud para EQUIPO FUERA DEL DOMINIO se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se identifica que el equipo se encuentra por fuera del dominio. 
+2. Se procedió desde la configuración del sistema sacar el equipo del dominio de forma correcta.
+3. Se reinicia el equipo y se ingresa al dominio de nuevo de forma correcta con el nuevo nombramiento del equipo.
+4. Se realizó pruebas de ingreso de sesión de forma exitosa
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+   
+______________________________________________________________________________________ANTIVIRUS__________________________________________________________________________________
+
+Se ha validado su  solicitud para ANTIVIRUS se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se identifica que el equipo tiene la versión anterior del antivirus 
+2. Se desístala por completo el antivirus y sus complementos.  
+3. Se instala y se configura de forma correcta el nuevo antivirus.
+5. Se comprueba que el antivirus  esta actualizado hasta la fecha.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+  
+__________________________________________________________________________________FALLA CABLE DE RED __________________________________________________________________________________
+
+
+Se ha validado su  solicitud para FALLA CABLE DE RED se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se verifica que el cable de red está dañado.
+2. Se cambia el cable de red por uno nuevo.
+3. Se realiza pruebas de conexión de forma correcta.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+
+____________________________________________________________________________________BACKUP FIN DE CONTRATO  ___________________________________________________________________________
+
+Se ha validado su  solicitud para BACKUP FIN DE CONTRATO se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se realizó backup de la información almacenada de forma local en el equipo institucional y se almacena el en la ruta indica. 
+2. Se diligencia el acta de entrega de copia de información y se entrega al usuario.
+3. Se adjunta en la solicitud el acta escaneada con las firmas correspondientes.  
+
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.   
+
+
+
+_______________________________________________________________________________________EQUIPO PERSONAL______________________________________________________________
+
+Se ha validado su  solicitud para EQUIPO PERSONAL  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se realizó verificación de la licencia del sistema operativo.
+2. Se verifico licencia del paquete Office.
+3. Se verifico licencia y actualización del antivirus.
+4. Se diligencia el formato con los datos del equipo y se adjunta el archivo a la solicitud con respectivas firmas.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+    
+___________________________________________________________________________________CONFIGURACION ACCESO REMOTO______________________________________________________________
+
+Se ha validado su  solicitud para CONFIGURACION ACCESO REMOTO  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se verifica informacion enviada.
+2. Se procede a realizar configuracion acceso remoto.
+3. Se dan las instrucciones necesarias para lograr la conexion de manera remota.
+4. Se comprueba con el/la colaborador/a él buen funcionamiento de la solución dada.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+___________________________________________________________________________________VALIDACIÓN CUENTA DE USUARIO_______________________________________________________________________
+
+
+Se ha validado su  solicitud para VALIDACIÓN CUENTA DE USUARIO  se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+
+1. Se realizó validación de ingreso del correo institucional con las credenciales asignadas por parte del especialista Office 365. 
+2. Se realizó pruebas de correo de manera correcta.  
+4. Se comprueba con el (la) colaborador(a) él buen funcionamiento de la solución dada.
+Se procede con la documentación y cierre del caso en la herramienta de gestión.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.
+
+___________________________________________________________________________________________EQUIPO SIN IMAGEN________________________________________________________________________________
+
+Se ha validado su  solicitud para EQUIPO SIN IMAGEN se informa que se ha realizado las siguientes actividades para dar solucion a su requerimiento  
+
+1. Se identifica que el equipo enciende, pero no está mostrando imagen.
+2. Se procede en destapar el equipo y realizar una limpieza en la memoria RAM para eliminar la estática.
+3. Se realiza pruebas de encendido de manera correcta mostrando imagen en la pantalla. 
+4. Se comprueba con el/la colaborador/a él buen funcionamiento de la solución dada.
+
+Agrademos  validar la efectividad de la solución y dar respuesta a la encuesta de  satisfacción que sera enviada a su correo electrónico, pasados 3 días hábiles de no    recibir sus comentarios, el  sistema dará como  gestionada a satisfacción y cerrara el caso.

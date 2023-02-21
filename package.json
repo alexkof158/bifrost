@@ -1,0 +1,18 @@
+{
+  "name": "bifrost",
+  "version": "1.0.0",
+  "description": "MIS",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Cogollo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}

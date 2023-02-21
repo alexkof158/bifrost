@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+    
+
+    <title>Scripts MIS</title>
+</head>
+<link rel="stylesheet" href="css/index.css">
+
+
+<body>
+    
+    <h2>Solución generica de incidentes</h2>
+    <form class="p-4" >
+        <span>Atendiendo a su solicitud se procedió a realizar revisión de lo reportado, se ha
+        identificado que la causa de la falla se presenta por <input type="text" id="sol" class="form-control"  placeholder="Cual es la falla" autofocus> para dar solución se procedió a realizar las siguientes actividades:</span>
+        <br>
+
+        <textarea cols="100" rows="5" placeholder="Documenta el paso a paso de la solución"></textarea>
+        <span>Una vez ejecutadas se evidencia que la falla persiste, por lo anterior se procedió
+            a: 
+        </span>
+        <textarea cols="100" rows="5" placeholder="Aquí incluir si es necesario validar un
+        repuesto, garantía o algún elemento que puede ser
+        suministrado o sustituido de manera inmediata
+        "></textarea>
+
+        
+        
+        <hr>
+        <button type="button" class="btn btn-success">Generar Script</button>
+
+    </form>
+    
+
+
+
+</body>
+
+</html>
